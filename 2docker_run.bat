@@ -1,1 +1,1 @@
-docker run -d --rm -p 25:25 --name mail_tablc mail_table
+docker run -d --rm -p 25:25 --name postfixc gonzalodeniz/docker-postfix

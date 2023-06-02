@@ -1,1 +1,1 @@
-docker build -t mail_table .
+docker build -t gonzalodeniz/docker-postfix .
